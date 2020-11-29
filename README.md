@@ -1,1 +1,1 @@
-# Early-Stage-Dementia_Detection
+# Preclinical Stage Alzheimer’s Disease Detection Using MRI Scans
