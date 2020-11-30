@@ -1,5 +1,5 @@
 # Preclinical Stage Alzheimer’s Disease Detection Using MRI Scans
-Implementation of Preclinical Stage Alzheimer’s Disease Detection Using Magnetic Resonance ImageScans paper in Pytorch
+Implementation of IAAI-21 paper 'Preclinical Stage Alzheimer’s Disease Detection Using Magnetic Resonance Image Scans' in Pytorch
 
 ## Prerequisites
     -Python 3.7.4
