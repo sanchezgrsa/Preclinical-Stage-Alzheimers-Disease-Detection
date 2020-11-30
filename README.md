@@ -20,4 +20,4 @@ As our second model, we employ a transformer network for the task of preclinical
 ![GitHub Logo](/images/transformer.png)
 
 ## Numerical Comparison
-XXX
+![GitHub Logo](/images/numerical_comparison.png)
